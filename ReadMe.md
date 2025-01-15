@@ -54,7 +54,6 @@ Before cloning and running this project, ensure you have the following installed
 ## References
 
 - YouTube Lesson Video: [Expo Router Tutorial](https://www.youtube.com/watch?v=Z20nUdAUGmM&t=2s)
-- GitHub Repository: [Expo-router-tutorial](https://github.com/guka20/Expo-router-tutorial)
 
 ## License
 
